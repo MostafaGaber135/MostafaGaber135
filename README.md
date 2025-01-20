@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning frontend & Cross-Platform Mobile Development<br><br>💬 Ask me about Ask me about anything<br><br>📫 How to reach me mostafagaber1234560@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1yPm5gjBUr4tOApjIQXdDJRILez8eLfvA/view?usp=sharing<br><br>⚡ Fun fact always learning
+🌱 I’m currently learning frontend & Cross-Platform Mobile Development<br><br>💬 Ask me about Ask me about anything<br><br>📫 How to reach me mostafagaber1234560@gmail.com<br><br>📄 Know about my experiences [https://drive.google.com/file/d/1yPm5gjBUr4tOApjIQXdDJRILez8eLfvA/view?usp=sharing](https://drive.google.com/file/d/1h35sC7aXuyQDAAV7T5JTyhUtr9zJ8vkJ/view?usp=sharing)<br><br>⚡ Fun fact always learning
 
 
 ## 🌐 Socials:
