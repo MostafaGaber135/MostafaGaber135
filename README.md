@@ -9,7 +9,7 @@
 🌱 I’m currently learning frontend & Cross-Platform Mobile Development<br><br>💬 Ask me about anything<br><br>📫 How to reach me mostafagaber1234560@gmail.com<br><br>📄 Know about my experiences [https://drive.google.com/file/d/1yPm5gjBUr4tOApjIQXdDJRILez8eLfvA/view?usp=sharing](https://drive.google.com/file/d/1hvt5I6hdJYEFD1kLnYQwP3rWwDiRTs5T/view?usp=sharing)<br><br>⚡ Fun fact always learning
 
 
-## 🌐 Socials:
+## <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
 <div align="left">
   <a href="https://www.instagram.com/abogabrathirteen/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
