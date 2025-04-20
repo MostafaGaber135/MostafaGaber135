@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning frontend & Cross-Platform Mobile Development<br><br>💬 Ask me about anything<br><br>📫 How to reach me mostafagaber1234560@gmail.com<br><br>📄 Know about my experiences [https://drive.google.com/file/d/1yPm5gjBUr4tOApjIQXdDJRILez8eLfvA/view?usp=sharing](https://drive.google.com/file/d/1hvt5I6hdJYEFD1kLnYQwP3rWwDiRTs5T/view?usp=sharing)<br><br>⚡ Fun fact always learning
+🌱 I’m currently learning frontend & Cross-Platform Mobile Development<br><br>💬 Ask me about anything<br><br>📫 How to reach me mostafagaber1234560@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1KE7Fl6P-QIUWECfSC6iPtN5EZnvcCyWz/view?usp=sharing | https://drive.google.com/file/d/1HiaSUJw5W5GNlj2jW5yc2C_Erc--N0iP/view?usp=sharing<br><br>⚡ Fun fact always learning
 
 
 ## <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
