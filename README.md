@@ -1,6 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Mostafa Gaber</h1>
 <br/>
-<br/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -9,14 +8,15 @@
 </div>
 
 <br/>
-<br/>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" alt="mostafagaber135"></p>
 
-# 💫 About Me:
-🌱 I’m currently learning Web Development  
+---
 
-💬 Ask me about anything  
+# 💫 About Me:
+🌱 I’m currently learning **Web Development**  
+
+💬 Ask me about **React, Next.js, TypeScript, Tailwind, and UI Design**  
 
 📫 How to reach me **mostafagaber1234560@gmail.com**  
 
@@ -26,9 +26,43 @@
 
 💼 I’ve also worked as a **Freelance Frontend Developer** on several projects through [PassAhead](https://passahead.com/), delivering modern, responsive, and high-performance web experiences for clients.  
 
-⚡ Fun fact: always learning!
+⚡ Fun fact: **Always learning and experimenting with new tech!**
 
-## <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
+---
+
+## 🧩 What I Do
+- 🚀 Building responsive and performant web apps with **React** & **Next.js**  
+- 🎨 Creating modern, user-centered interfaces with **TailwindCSS**, **MUI**, and **Framer Motion**  
+- ⚙️ Integrating **APIs**, **Firebase**, and **Supabase** for scalable solutions  
+- 🧠 Writing clean, maintainable, and well-documented code  
+
+---
+
+## 🧠 Featured Projects
+
+| Project | Description | Live Demo | Tech Stack |
+|----------|--------------|------------|-------------|
+| 🛒 **E-Commerce App** | Modern store with real-time cart & authentication | [Live](https://yourprojectlink.com) | React, Redux, Firebase |
+| 🎬 **Movie Explorer** | Browse and filter movies using external APIs | [Live](https://yourprojectlink.com) | React, Tailwind, Axios |
+| 📅 **Task Manager** | Collaborative productivity app | [Live](https://yourprojectlink.com) | Next.js, Supabase |
+
+---
+
+## 🌱 Currently Exploring
+- Next.js 15 & React Server Components  
+- TypeScript Advanced Patterns  
+- Web Animations with Framer Motion  
+- Performance Optimization in React  
+
+---
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## <h2> 🤝 Connect with me</h2>
 <div align="left">
   <a href="https://www.instagram.com/abogabrathirteen/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
@@ -49,6 +83,8 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
+
+---
 
 <h2> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="20" width="20"> Technical Skills:</h2>
 
@@ -98,4 +134,3 @@
 ### 🎨 Design & Collaboration
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
