@@ -42,9 +42,9 @@
 
 | Project | Description | Live Demo | Tech Stack |
 |----------|--------------|------------|-------------|
-| 🛒 **E-Commerce App** | Modern store with real-time cart & authentication | [Live](https://yourprojectlink.com) | React, Redux, Firebase |
-| 🎬 **Movie Explorer** | Browse and filter movies using external APIs | [Live](https://yourprojectlink.com) | React, Tailwind, Axios |
-| 📅 **Task Manager** | Collaborative productivity app | [Live](https://yourprojectlink.com) | Next.js, Supabase |
+| 🎬 **MovieFlix** | React-based movie browser using **TMDb API** with search, details view, favorites (localStorage), and responsive UI built with Tailwind CSS & DaisyUI. | [View Project](https://movieflixyz.netlify.app/) · [View on GitHub](https://github.com/mostafagaber135/MovieFlix) | React · React Router DOM · DaisyUI · Context API |
+| 🗺️ **CodeMap** | Web app that provides structured learning paths and roadmaps for developers, with an intuitive bilingual (Arabic/English) UI. | [View Project](https://code-map-psi.vercel.app/) · [View on GitHub](https://github.com/mostafagaber135/CodeMap) | Next.js · Material UI · Supabase |
+| 🛍️ **ITI Market** | E-commerce platform offering a wide range of products, from electronics and gadgets to home essentials and fashion. | [View Project](https://iti-market.netlify.app/) · [View on GitHub](https://github.com/mostafagaber135/ITI-Market) | HTML · CSS · JavaScript |
 
 ---
 
