@@ -42,9 +42,9 @@
 
 | Project | Description | Live Demo | Tech Stack |
 |----------|--------------|------------|-------------|
-| 🎬 **MovieFlix** | React-based movie browser using **TMDb API** with search, details view, favorites (localStorage), and responsive UI built with Tailwind CSS & DaisyUI. | [View Project](https://movieflixyz.netlify.app/) · [View on GitHub](https://github.com/mostafagaber135/MovieFlix) | React · React Router DOM · DaisyUI · Context API |
+| 🎬 **MovieFlix** | React-based movie browser using **TMDb API** with search, details view, favorites (localStorage), and responsive UI built with Tailwind CSS & DaisyUI. | [View Project](https://movie-flix-bice-pi.vercel.app/) · [View on GitHub](https://github.com/mostafagaber135/MovieFlix) | React · React Router DOM · DaisyUI · Context API |
 | 🗺️ **CodeMap** | Web app that provides structured learning paths and roadmaps for developers, with an intuitive bilingual (Arabic/English) UI. | [View Project](https://code-map-psi.vercel.app/) · [View on GitHub](https://github.com/mostafagaber135/CodeMap) | Next.js · Material UI · Supabase |
-| 🛍️ **ITI Market** | E-commerce platform offering a wide range of products, from electronics and gadgets to home essentials and fashion. | [View Project](https://iti-market.netlify.app/) · [View on GitHub](https://github.com/mostafagaber135/ITI-Market) | HTML · CSS · JavaScript |
+| 🛍️ **ITI Market** | E-commerce platform offering a wide range of products, from electronics and gadgets to home essentials and fashion. | [View Project](https://iti-1st.vercel.app/index.html) · [View on GitHub](https://github.com/mostafagaber135/ITI-Market) | HTML · CSS · JavaScript |
 
 ---
 
