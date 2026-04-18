@@ -1,15 +1,17 @@
-<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Mostafa Gaber</h1>
-<br/>
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=25&pause=1000&color=B8C3D4&vCenter=true&random=true&width=700&lines=Crafting+fast%2C+intuitive+React+experiences.;Turning+bold+UIs+into+pixel-perfect+code.;Delivering+fast%2C+accessible+web+apps.;Building+interactive%2C+scalable+solutions." alt="Typing SVG" />
-  </a>
-</div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:0F172A,55:0B3B3B,100:115E59&text=Mostafa%20Gaber&fontColor=ECFEFF&fontSize=64&fontAlignY=38&desc=Frontend%20Engineer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript&descAlignY=60&descSize=20&animation=fadeIn" alt="header" />
 
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" alt="mostafagaber135"></p>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2600&pause=900&color=5EEAD4&center=true&vCenter=true&width=980&lines=Building+frontend+products+that+feel+sharp%2C+fast%2C+and+intentional;Clean+architecture+%E2%80%A2+Responsive+UI+%E2%80%A2+Performance-first+thinking;From+pixel-perfect+interfaces+to+production-ready+delivery;React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind+CSS" alt="typing intro" />
+
+<br />
+
+<p>
+  <a href="mailto:mostafagaber1234560@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://mostafagaberahmed.site"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/MostafaGaber135"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/mostafagaber135"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
