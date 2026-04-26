@@ -2,17 +2,17 @@
 
 # Mostafa Gaber Ahmed Hussien
 
-### Frontend Developer · React & Next.js · TypeScript
+### Frontend Developer &nbsp;·&nbsp; React & Next.js &nbsp;·&nbsp; TypeScript
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=4000&pause=800&color=7C3AED&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Crafting+high-performance+web+experiences;React+%7C+Next.js+15+%7C+TypeScript;Clean+code+%2B+scalable+architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=800&color=7C3AED&center=true&vCenter=true&repeat=true&width=600&lines=Crafting+high-performance+web+experiences;React+%7C+Next.js+15+%7C+TypeScript;Clean+code+%2B+scalable+architecture)](https://git.io/typing-svg)
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MostafaGaber135&style=flat-square&color=7c3aed&label=Profile+Views)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/MostafaGaber135?style=flat-square&color=6d28d9&logo=github&label=Followers)](https://github.com/MostafaGaber135?tab=followers)
+[![Followers](https://img.shields.io/github/followers/MostafaGaber135?style=flat-square&color=6d28d9&logo=github&label=Followers)](https://github.com/MostafaGaber135?tab=followers)
 &nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/MostafaGaber135?style=flat-square&color=4c1d95&logo=github&label=Stars)](https://github.com/MostafaGaber135)
+[![Stars](https://img.shields.io/github/stars/MostafaGaber135?style=flat-square&color=4c1d95&logo=github&label=Stars)](https://github.com/MostafaGaber135)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-mostafagaberahmed.site-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://mostafagaberahmed.site)
 
@@ -27,8 +27,8 @@ I'm a **Frontend Developer** based in Egypt 🇪🇬, currently working at **Pen
 - 🏢 **Position** — Frontend Developer @ PentaValue
 - - 🛠️ **Core Stack** — React, Next.js 15, TypeScript, TailwindCSS
   - - 🌐 **Freelance** — Modern, responsive web apps via PassAhead
-    - - 🔭 **Currently** — Diving deep into React Server Components & advanced TypeScript patterns
-      - - 📫 **Reach me** — [mostafagaber1234560@gmail.com](mailto:mostafagaber1234560@gmail.com)
+    - - 🔭 **Currently** — React Server Components & advanced TypeScript patterns
+      - - 📫 **Email** — [mostafagaber1234560@gmail.com](mailto:mostafagaber1234560@gmail.com)
         - - 🌍 **Portfolio** — [mostafagaberahmed.site](https://mostafagaberahmed.site)
          
           - ---
@@ -109,7 +109,7 @@ I'm a **Frontend Developer** based in Egypt 🇪🇬, currently working at **Pen
           > > >
           > > > <div align="center">
 
-          [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MostafaGaber135&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&icon_color=6d28d9&text_color=e2e8f0&ring_color=7c3aed&include_all_commits=true&count_private=true)](https://github.com/MostafaGaber135)
+          [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MostafaGaber135&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&icon_color=6d28d9&text_color=e2e8f0&include_all_commits=true&count_private=true)](https://github.com/MostafaGaber135)
           &nbsp;&nbsp;
           [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaGaber135&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&text_color=e2e8f0&langs_count=6)](https://github.com/MostafaGaber135)
 
@@ -156,5 +156,5 @@ I'm a **Frontend Developer** based in Egypt 🇪🇬, currently working at **Pen
           ---
 
           <div align="center">
-          <sub>Built with ❤️ by Mostafa Gaber · Always learning, always building</sub>sub>
+          <sub>Built with ❤️ by Mostafa Gaber &nbsp;·&nbsp; Always learning, always building</sub>sub>
           </div>div></sub>
