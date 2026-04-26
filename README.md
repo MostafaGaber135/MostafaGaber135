@@ -25,12 +25,6 @@
 
 ## `> About Me`
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=2000&pause=1000&color=00BD7D&center=true&vCenter=true&repeat=false&width=600&lines=%F0%9F%91%8B+Hey%2C+I%27m+Mostafa+Gaber!" alt="Hey"/>
-
-</div>
-
 I'm a **Frontend Developer** based in 🇪🇬 **Egypt**, currently building products at **PentaValue** and delivering freelance work through **PassAhead**. I craft fast, accessible, and visually polished web interfaces — turning ideas into smooth, production-ready experiences.
 
 <div align="center">
