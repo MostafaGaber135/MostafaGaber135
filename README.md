@@ -25,32 +25,43 @@
 
 ## `> About Me`
 
-```typescript
-const mostafa: Developer = {
-  role      : "Frontend Developer",
-  company   : "PentaValue",
-  freelance : "PassAhead",
-  location  : "Egypt 🇪🇬",
+<div align="center">
 
-  core      : ["JavaScript (ES6+)", "TypeScript", "HTML5", "CSS3",
-               "Responsive Design", "Semantic HTML"],
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=2000&pause=1000&color=00BD7D&center=true&vCenter=true&repeat=false&width=600&lines=%F0%9F%91%8B+Hey%2C+I%27m+Mostafa+Gaber!" alt="Hey"/>
 
-  frameworks: ["React", "Next.js", "React Router", "Context API"],
+</div>
 
-  ui        : ["Tailwind CSS", "Material UI (MUI)", "DaisyUI",
-               "Sass", "Bootstrap"],
+I'm a **Frontend Developer** based in 🇪🇬 **Egypt**, currently building products at **PentaValue** and delivering freelance work through **PassAhead**. I craft fast, accessible, and visually polished web interfaces — turning ideas into smooth, production-ready experiences.
 
-  backend   : ["RESTful API Integration", "Firebase", "Supabase"],
+<div align="center">
 
-  tools     : ["Git", "GitHub", "Vercel", "Netlify", "Postman"],
+| 🏢 Company | 🚀 Freelance | 📍 Location | 📬 Email |
+|:---:|:---:|:---:|:---:|
+| PentaValue | PassAhead | Egypt | mostafagaber1234560@gmail.com |
 
-  focus     : ["Fast & accessible UIs", "React Server Components",
-               "Advanced TypeScript", "Framer Motion animations"],
+</div>
 
-  email     : "mostafagaber1234560@gmail.com",
-  site      : "mostafagaberahmed.site",
-};
-```
+### 💡 What I'm About
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/%E2%9A%A1_Fast_Interfaces-building_web_that_flies-00BD7D?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/%F0%9F%8E%AF_Accessible_UIs-WCAG_compliant_by_default-00BD7D?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/%F0%9F%A7%A9_Clean_Architecture-scalable_%26_maintainable-00BD7D?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/%F0%9F%8E%A8_Pixel_Perfect-design_to_code_fidelity-00BD7D?style=flat-square&labelColor=111827"/>
+
+</div>
+
+### 🔥 Currently Focused On
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Next.js%2015-App%20Router%20%26%20RSC-111827?style=for-the-badge&logo=nextdotjs&logoColor=00BD7D"/>
+<img src="https://img.shields.io/badge/TypeScript-Advanced%20Generics-111827?style=for-the-badge&logo=typescript&logoColor=00BD7D"/>
+<img src="https://img.shields.io/badge/Framer%20Motion-Complex%20Animations-111827?style=for-the-badge&logo=framer&logoColor=D97706"/>
+<img src="https://img.shields.io/badge/React-Performance%20%26%20Optimization-111827?style=for-the-badge&logo=react&logoColor=00BD7D"/>
+
+</div>
 
 ---
 
