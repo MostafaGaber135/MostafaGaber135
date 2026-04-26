@@ -22,13 +22,13 @@
 
 ## About Me
 
-I'm a **Frontend Developer** based in Egypt, currently working at **PentaValue** and freelancing via **PassAhead**. I specialize in building fast, accessible, and visually polished web interfaces using modern React and Next.js.
+I'm a **Frontend Developer** based in Egypt, currently working at **PentaValue** and freelancing via **PassAhead**. I build fast, accessible, and visually polished web interfaces.
 
 | | |
 |---|---|
 | **Position** | Frontend Developer @ PentaValue |
 | **Core Stack** | React, Next.js 15, TypeScript, TailwindCSS |
-| **Freelance** | Modern, responsive web apps via PassAhead |
+| **Freelance** | Modern web apps via PassAhead |
 | **Currently** | React Server Components & advanced TypeScript |
 | **Email** | mostafagaber1234560@gmail.com |
 | **Portfolio** | [mostafagaberahmed.site](https://mostafagaberahmed.site) |
@@ -79,6 +79,7 @@ I'm a **Frontend Developer** based in Egypt, currently working at **PentaValue**
 ## Featured Projects
 
 ### MovieFlix
+
 React-based movie browser powered by the **TMDb API** — search, detailed views, local favourites, and a fully responsive UI.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://movie-flix-three-rouge.vercel.app)
@@ -89,6 +90,7 @@ React-based movie browser powered by the **TMDb API** — search, detailed views
 ---
 
 ### CodeMap
+
 Structured developer learning roadmaps with a bilingual Arabic/English interface and a clean, intuitive UX.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://code-map-nu.vercel.app)
@@ -99,7 +101,8 @@ Structured developer learning roadmaps with a bilingual Arabic/English interface
 ---
 
 ### ITI Market
-A full e-commerce platform featuring electronics, fashion, and home essentials with a clean product browsing experience.
+
+A full e-commerce platform featuring electronics, fashion, and home essentials.
 
 [![GitHub](https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MostafaGaber135/ITI-Market)
 
@@ -137,10 +140,10 @@ A full e-commerce platform featuring electronics, fashion, and home essentials w
 
 | Topic | Status |
 |:------|:------:|
-| Next.js 15 — App Router & Server Components | Active |
-| TypeScript — Advanced Generics & Decorators | Active |
-| Framer Motion — Complex Animations & Gestures | Learning |
-| React Performance — Profiling & Optimization | Learning |
+| Next.js 15 App Router & Server Components | Active |
+| TypeScript Advanced Generics & Decorators | Active |
+| Framer Motion Complex Animations | Learning |
+| React Performance & Optimization | Learning |
 
 ---
 
@@ -153,10 +156,8 @@ A full e-commerce platform featuring electronics, fashion, and home essentials w
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/mostafagaber135)
 [![Resume](https://img.shields.io/badge/Resume-0f0f0f?style=for-the-badge&logo=read-the-docs&logoColor=7c3aed)](https://mostafagaberahmed.site)
 
-</div>
-
 ---
 
-<div align="center">
-<sub>Always learning · Always building · Mostafa Gaber</sub>sub>
-</div>div></sub>
+*Always learning · Always building · Mostafa Gaber*
+
+</div>
