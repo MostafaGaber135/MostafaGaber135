@@ -14,7 +14,7 @@
 ---
 
 # 💫 About Me:
-🌱 I’m currently learning **Web Development**  
+🌱 I'm currently exploring **Next.js 15, React Server Components & TypeScript advanced patterns**  
 
 💬 Ask me about **React, Next.js, TypeScript, Tailwind, and UI Design**  
 
@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
   <a href="https://www.linkedin.com/in/mostafagaber135/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />h
   </a>
   <a href="https://www.facebook.com/mostafagaber1234560" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
