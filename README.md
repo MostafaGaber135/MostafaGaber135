@@ -1,153 +1,250 @@
+<!-- Perspective Design System — Spatial Depth GitHub Profile -->
+<!-- Fonts: Poppins (primary) · Oswald (display) · JetBrains Mono (mono) -->
+<!-- Primary: #00BD7D · Surface: #FFFFFF · Text: #111827 -->
+
 <div align="center">
 
-# Mostafa Gaber Ahmed Hussien
+<!-- ═══════════════════════ HERO LAYER ═══════════════════════ -->
 
-### Frontend Developer &nbsp;·&nbsp; React & Next.js &nbsp;·&nbsp; TypeScript
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,00BD7D,111827&height=200&section=header&text=Mostafa%20Gaber&fontSize=52&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&desc=Frontend%20Developer%20%E2%80%94%20React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descSize=18&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" alt="Hero Banner"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=800&color=7C3AED&center=true&vCenter=true&repeat=true&width=600&lines=Crafting+high-performance+web+experiences;React+%7C+Next.js+15+%7C+TypeScript;Clean+code+%2B+scalable+architecture)](https://git.io/typing-svg)
+<!-- ═══════════════════════ TYPING SVG ═══════════════════════ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=00BD7D&center=true&vCenter=true&repeat=true&width=640&lines=Building+high-performance+web+experiences;React+%7C+Next.js+15+%7C+TypeScript;Clean+code+%2B+scalable+architecture;Fast+%C2%B7+Accessible+%C2%B7+Visually+Polished" alt="Typing SVG"/>
+</a>a>
 
----
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MostafaGaber135&style=flat-square&color=7c3aed&label=Profile+Views)
-&nbsp;
-[![Followers](https://img.shields.io/github/followers/MostafaGaber135?style=flat-square&color=6d28d9&logo=github&label=Followers)](https://github.com/MostafaGaber135?tab=followers)
-&nbsp;
-[![Stars](https://img.shields.io/github/stars/MostafaGaber135?style=flat-square&color=4c1d95&logo=github&label=Stars)](https://github.com/MostafaGaber135)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-mostafagaberahmed.site-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://mostafagaberahmed.site)
+<!-- ═══════════════════════ DEPTH BADGE ROW ═══════════════════════ -->
+<p>
+    <img src="https://img.shields.io/badge/Position-Frontend%20Developer%20%40%20PentaValue-00BD7D?style=for-the-badge&logo=briefcase&logoColor=white"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Freelance-PassAhead-111827?style=for-the-badge&logo=rocket&logoColor=00BD7D"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Based%20in-Egypt-DC2626?style=for-the-badge&logo=google-maps&logoColor=white"/>
+</p>p>
+
+<p>
+    <a href="mailto:mostafagaber1234560@gmail.com">
+          <img src="https://img.shields.io/badge/Email-mostafagaber1234560%40gmail.com-00BD7D?style=flat-square&logo=gmail&logoColor=white"/>
+    </a>a>
+    &nbsp;
+    <a href="https://mostafagaberahmed.site">
+          <img src="https://img.shields.io/badge/Portfolio-mostafagaberahmed.site-111827?style=flat-square&logo=vercel&logoColor=00BD7D"/>
+    </a>a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=MostafaGaber135&style=flat-square&color=00BD7D&label=Profile+Views"/>
+</p>p>
 
 </div>
 
 ---
 
-## About Me
+<!-- ═══════════════════════ ABOUT — LAYER 1 (FOREGROUND) ═══════════════════════ -->
 
-I'm a **Frontend Developer** based in Egypt, currently working at **PentaValue** and freelancing via **PassAhead**. I build fast, accessible, and visually polished web interfaces.
+<table>
+  <tr>
+    <td width="55%" valign="top">
 
-| | |
-|---|---|
-| **Position** | Frontend Developer @ PentaValue |
-| **Core Stack** | React, Next.js 15, TypeScript, TailwindCSS |
-| **Freelance** | Modern web apps via PassAhead |
-| **Currently** | React Server Components & advanced TypeScript |
-| **Email** | mostafagaber1234560@gmail.com |
-| **Portfolio** | [mostafagaberahmed.site](https://mostafagaberahmed.site) |
+      ### `> About Me`
 
----
+      ```typescript
+      const mostafa = {
+        role    : "Frontend Developer",
+          company : "PentaValue",
+            freelance: "PassAhead",
+              location: "Egypt 🇪🇬",
+                focus   : [
+                    "Fast & accessible UIs",
+                        "React Server Components",
+                            "Advanced TypeScript",
+                                "Framer Motion animations",
+                                  ],
+                                    email   : "mostafagaber1234560@gmail.com",
+                                      site    : "mostafagaberahmed.site",
+                                      };
+                                      ```
 
-## Tech Stack
+                                      </td>
+                                      <td width="45%" valign="top">
 
-**Languages**
+                                      ### `> GitHub Stats`
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0f0f0f?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f0f0f?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0f0f0f?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0f0f0f?style=for-the-badge&logo=css3&logoColor=1572B6)
+                                      <img src="https://github-readme-stats.vercel.app/api?username=MostafaGaber135&show_icons=true&theme=transparent&hide_border=true&title_color=00BD7D&icon_color=00BD7D&text_color=111827&bg_color=00000000&rank_icon=github&include_all_commits=true" width="100%"/>
 
-**Frameworks & Libraries**
+                                      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaGaber135&theme=transparent&hide_border=true&stroke=00BD7D&ring=00BD7D&fire=D97706&currStreakLabel=111827&sideLabels=111827&dates=6B7280" width="100%"/>
 
-![React](https://img.shields.io/badge/React-0f0f0f?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0f0f0f?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![Redux](https://img.shields.io/badge/Redux-0f0f0f?style=for-the-badge&logo=redux&logoColor=764ABC)
-![React Query](https://img.shields.io/badge/React_Query-0f0f0f?style=for-the-badge&logo=reactquery&logoColor=FF4154)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0f0f0f?style=for-the-badge&logo=framer&logoColor=0055FF)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-0f0f0f?style=for-the-badge&logo=reacthookform&logoColor=EC5990)
+                                      </td>
+                                      </tr>
+                                      </table>
 
-**Styling**
+                                      ---
 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0f0f0f?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![MUI](https://img.shields.io/badge/Material_UI-0f0f0f?style=for-the-badge&logo=mui&logoColor=007FFF)
-![Sass](https://img.shields.io/badge/Sass-0f0f0f?style=for-the-badge&logo=sass&logoColor=CC6699)
-![Styled Components](https://img.shields.io/badge/Styled_Components-0f0f0f?style=for-the-badge&logo=styled-components&logoColor=DB7093)
+                                      <!-- ═══════════════════════ TECH STACK — LAYER 2 (MID-GROUND) ═══════════════════════ -->
 
-**Backend & Cloud**
+                                      <div align="center">
 
-![Firebase](https://img.shields.io/badge/Firebase-0f0f0f?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Supabase](https://img.shields.io/badge/Supabase-0f0f0f?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![REST API](https://img.shields.io/badge/REST_API-0f0f0f?style=for-the-badge&logo=postman&logoColor=FF6C37)
+                                      ### `> Tech Stack`
 
-**Tooling**
+                                      **Languages**
 
-![Git](https://img.shields.io/badge/Git-0f0f0f?style=for-the-badge&logo=git&logoColor=F05032)
-![Vite](https://img.shields.io/badge/Vite-0f0f0f?style=for-the-badge&logo=vite&logoColor=646CFF)
-![Figma](https://img.shields.io/badge/Figma-0f0f0f?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![VS Code](https://img.shields.io/badge/VS_Code-0f0f0f?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Vercel](https://img.shields.io/badge/Vercel-0f0f0f?style=for-the-badge&logo=vercel&logoColor=ffffff)
+                                      ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=00BD7D)
+                                      ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=D97706)
+                                      ![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=DC2626)
+                                      ![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=00BD7D)
 
----
+                                      **Frameworks & Libraries**
 
-## Featured Projects
+                                      ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=00BD7D)
+                                      ![Next.js](https://img.shields.io/badge/Next.js%2015-111827?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+                                      ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-111827?style=for-the-badge&logo=framer&logoColor=00BD7D)
+                                      ![React Router](https://img.shields.io/badge/React%20Router-111827?style=for-the-badge&logo=reactrouter&logoColor=DC2626)
 
-### MovieFlix
+                                      **Styling**
 
-React-based movie browser powered by the **TMDb API** — search, detailed views, local favourites, and a fully responsive UI.
+                                      ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=00BD7D)
+                                      ![Material UI](https://img.shields.io/badge/Material%20UI-111827?style=for-the-badge&logo=mui&logoColor=00BD7D)
+                                      ![DaisyUI](https://img.shields.io/badge/DaisyUI-111827?style=for-the-badge&logo=daisyui&logoColor=00BD7D)
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://movie-flix-three-rouge.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MostafaGaber135/MovieFlix)
+                                      **Backend & Cloud**
 
-`React` `React Router` `TailwindCSS` `DaisyUI` `Context API`
+                                      ![Supabase](https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=00BD7D)
+                                      ![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=16A34A)
 
----
+                                      **Tooling**
 
-### CodeMap
+                                      ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=DC2626)
+                                      ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
+                                      ![VS Code](https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=00BD7D)
+                                      ![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=D97706)
 
-Structured developer learning roadmaps with a bilingual Arabic/English interface and a clean, intuitive UX.
+                                      </div>
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://code-map-nu.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MostafaGaber135/CodeMap)
+                                      ---
 
-`Next.js` `Material UI` `Supabase`
+                                      <!-- ═══════════════════════ PROJECTS — LAYER 3 (BACKGROUND / DEPTH) ═══════════════════════ -->
 
----
+                                      ### `> Featured Projects`
 
-### ITI Market
+                                      <table>
+                                      <tr>
 
-A full e-commerce platform featuring electronics, fashion, and home essentials.
+                                      <td width="33%" valign="top">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MostafaGaber135/ITI-Market)
+                                      #### 🎬 MovieFlix
+                                      > React-based movie browser powered by the TMDb API
 
-`HTML` `CSS` `JavaScript`
+                                      **Stack**
+                                      ![React](https://img.shields.io/badge/-React-00BD7D?style=flat-square&logoColor=white)
+                                      ![React Router](https://img.shields.io/badge/-Router-111827?style=flat-square)
+                                      ![TailwindCSS](https://img.shields.io/badge/-Tailwind-00BD7D?style=flat-square)
+                                      ![DaisyUI](https://img.shields.io/badge/-DaisyUI-111827?style=flat-square)
+                                      ![Context API](https://img.shields.io/badge/-Context-00BD7D?style=flat-square)
 
----
+                                      **Highlights**
+                                      - Full-text movie search with TMDb API
+                                      - Detailed film views & local favourites
+                                      - Fully responsive UI
 
-## GitHub Stats
+                                      </td>
 
-<div align="center">
+                                      <td width="33%" valign="top">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MostafaGaber135&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&icon_color=6d28d9&text_color=e2e8f0&include_all_commits=true&count_private=true)](https://github.com/MostafaGaber135)
-&nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaGaber135&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&text_color=e2e8f0&langs_count=6)](https://github.com/MostafaGaber135)
+                                      #### 🗺️ CodeMap
+                                      > Structured developer learning roadmaps
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MostafaGaber135&theme=dark&hide_border=true&background=0d0d0d&stroke=7c3aed&ring=7c3aed&fire=a78bfa&currStreakLabel=7c3aed&sideLabels=e2e8f0&dates=94a3b8&sideNums=a78bfa&currStreakNum=ffffff)](https://github.com/MostafaGaber135)
+                                      **Stack**
+                                      ![Next.js](https://img.shields.io/badge/-Next.js-111827?style=flat-square&logoColor=white)
+                                      ![Material UI](https://img.shields.io/badge/-MUI-00BD7D?style=flat-square)
+                                      ![Supabase](https://img.shields.io/badge/-Supabase-111827?style=flat-square)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MostafaGaber135&bg_color=0d0d0d&color=7c3aed&line=6d28d9&point=a78bfa&area_color=4c1d95&area=true&hide_border=true)](https://github.com/MostafaGaber135)
+                                      **Highlights**
+                                      - Bilingual Arabic / English interface
+                                      - Intuitive, clean UX
+                                      - Backend powered by Supabase
 
-</div>
+                                      </td>
 
----
+                                      <td width="33%" valign="top">
 
-## Currently Exploring
+                                      #### 🛒 ITI Market
+                                      > Full-scale e-commerce platform
 
-| Topic | Status |
-|:------|:------:|
-| Next.js 15 App Router & Server Components | Active |
-| TypeScript Advanced Generics & Decorators | Active |
-| Framer Motion Complex Animations | Learning |
-| React Performance & Optimization | Learning |
+                                      **Stack**
+                                      ![HTML](https://img.shields.io/badge/-HTML-DC2626?style=flat-square)
+                                      ![CSS](https://img.shields.io/badge/-CSS-00BD7D?style=flat-square)
+                                      ![JavaScript](https://img.shields.io/badge/-JS-D97706?style=flat-square)
 
----
+                                      **Highlights**
+                                      - Electronics, fashion & home essentials
+                                      - Cart, filters, and product detail pages
+                                      - Vanilla JS with clean architecture
 
-## Let's Connect
+                                      </td>
 
-<div align="center">
+                                      </tr>
+                                      </table>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f0f0f?style=for-the-badge&logo=vercel&logoColor=7c3aed)](https://mostafagaberahmed.site)
-[![Email](https://img.shields.io/badge/Email-0f0f0f?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mostafagaber1234560@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/mostafagaber135)
-[![Resume](https://img.shields.io/badge/Resume-0f0f0f?style=for-the-badge&logo=read-the-docs&logoColor=7c3aed)](https://mostafagaberahmed.site)
+                                      ---
 
----
+                                      <!-- ═══════════════════════ CURRENTLY EXPLORING — VANISHING POINT ═══════════════════════ -->
 
-*Always learning · Always building · Mostafa Gaber*
+                                      <div align="center">
 
-</div>
+                                      ### `> Currently Exploring`
+
+                                      | Topic | Focus | Status |
+                                      |:------|:------|:------:|
+                                      | **Next.js 15** | App Router & React Server Components | 🟢 Active |
+                                      | **TypeScript** | Advanced Generics & Decorators | 🟢 Active |
+                                      | **Framer Motion** | Complex Animations & Transitions | 🟡 Learning |
+                                      | **React** | Performance Optimization & Profiling | 🟡 Learning |
+
+                                      </div>
+
+                                      ---
+
+                                      <!-- ═══════════════════════ GITHUB ACTIVITY — DEPTH LAYER ═══════════════════════ -->
+
+                                      <div align="center">
+
+                                      ### `> Contribution Graph`
+
+                                      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MostafaGaber135&bg_color=ffffff&color=111827&line=00BD7D&point=00BD7D&area=true&area_color=00BD7D&hide_border=true&radius=8" width="100%"/>
+
+                                      ### `> Most Used Languages`
+
+                                      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaGaber135&layout=compact&theme=transparent&hide_border=true&title_color=00BD7D&text_color=111827&bg_color=00000000&langs_count=8" width="50%"/>
+
+                                      </div>
+
+                                      ---
+
+                                      <!-- ═══════════════════════ CONNECT — FOREGROUND CTA ═══════════════════════ -->
+
+                                      <div align="center">
+
+                                      ### `> Let's Connect`
+
+                                      <a href="mailto:mostafagaber1234560@gmail.com">
+                                        <img src="https://img.shields.io/badge/Gmail-Send%20a%20Message-00BD7D?style=for-the-badge&logo=gmail&logoColor=white"/>
+                                        </a>
+                                        &nbsp;
+                                        <a href="https://mostafagaberahmed.site">
+                                          <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-111827?style=for-the-badge&logo=vercel&logoColor=00BD7D"/>
+                                          </a>
+                                          &nbsp;
+                                          <a href="https://github.com/MostafaGaber135">
+                                            <img src="https://img.shields.io/badge/GitHub-Follow%20Me-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+                                            </a>
+
+                                            <br/><br/>
+
+                                            <img src="https://capsule-render.vercel.app/api?type=waving&color=0,111827,00BD7D&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+                                            > *Always learning · Always building · **Mostafa Gaber***
+
+                                            </div>
+  </tr>
+</p>
+</p>
