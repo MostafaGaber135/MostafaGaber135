@@ -31,6 +31,12 @@ const mostafa = {
   company   : "PentaValue",
   freelance : "PassAhead",
   location  : "Egypt 🇪🇬",
+  skills    : [
+    "TypeScript", "JavaScript", "React", "Next.js 15",
+    "TailwindCSS", "Framer Motion", "Supabase", "Node.js",
+    "Material UI", "DaisyUI", "React Router", "Vite",
+    "HTML5", "CSS3", "Git",
+  ],
   focus     : [
     "Fast & accessible UIs",
     "React Server Components",
