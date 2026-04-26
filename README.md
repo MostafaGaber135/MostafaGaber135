@@ -26,23 +26,27 @@
 ## `> About Me`
 
 ```typescript
-const mostafa = {
+const mostafa: Developer = {
   role      : "Frontend Developer",
   company   : "PentaValue",
   freelance : "PassAhead",
   location  : "Egypt 🇪🇬",
-  skills    : [
-    "TypeScript", "JavaScript", "React", "Next.js 15",
-    "TailwindCSS", "Framer Motion", "Supabase", "Node.js",
-    "Material UI", "DaisyUI", "React Router", "Vite",
-    "HTML5", "CSS3", "Git",
-  ],
-  focus     : [
-    "Fast & accessible UIs",
-    "React Server Components",
-    "Advanced TypeScript",
-    "Framer Motion animations",
-  ],
+
+  core      : ["JavaScript (ES6+)", "TypeScript", "HTML5", "CSS3",
+               "Responsive Design", "Semantic HTML"],
+
+  frameworks: ["React", "Next.js", "React Router", "Context API"],
+
+  ui        : ["Tailwind CSS", "Material UI (MUI)", "DaisyUI",
+               "Sass", "Bootstrap"],
+
+  backend   : ["RESTful API Integration", "Firebase", "Supabase"],
+
+  tools     : ["Git", "GitHub", "Vercel", "Netlify", "Postman"],
+
+  focus     : ["Fast & accessible UIs", "React Server Components",
+               "Advanced TypeScript", "Framer Motion animations"],
+
   email     : "mostafagaber1234560@gmail.com",
   site      : "mostafagaberahmed.site",
 };
@@ -65,35 +69,44 @@ const mostafa = {
 
 <div align="center">
 
-**Languages**
+**Core Languages**
 
+![JavaScript](https://img.shields.io/badge/JavaScript%20ES6+-111827?style=for-the-badge&logo=javascript&logoColor=D97706)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=00BD7D)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=D97706)
 ![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=DC2626)
 ![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=00BD7D)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-111827?style=for-the-badge&logo=google-chrome&logoColor=00BD7D)
+![Semantic HTML](https://img.shields.io/badge/Semantic%20HTML-111827?style=for-the-badge&logo=html5&logoColor=D97706)
 
 **Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=00BD7D)
 ![Next.js 15](https://img.shields.io/badge/Next.js%2015-111827?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-111827?style=for-the-badge&logo=framer&logoColor=00BD7D)
 ![React Router](https://img.shields.io/badge/React%20Router-111827?style=for-the-badge&logo=reactrouter&logoColor=DC2626)
+![Context API](https://img.shields.io/badge/Context%20API-111827?style=for-the-badge&logo=react&logoColor=00BD7D)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-111827?style=for-the-badge&logo=framer&logoColor=00BD7D)
 
-**Styling**
+**UI Systems**
 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=00BD7D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=00BD7D)
 ![Material UI](https://img.shields.io/badge/Material%20UI-111827?style=for-the-badge&logo=mui&logoColor=00BD7D)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-111827?style=for-the-badge&logo=daisyui&logoColor=00BD7D)
+![Sass](https://img.shields.io/badge/Sass-111827?style=for-the-badge&logo=sass&logoColor=DC2626)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap&logoColor=00BD7D)
 
 **Backend & Cloud**
 
+![Firebase](https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=D97706)
 ![Supabase](https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=00BD7D)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=16A34A)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-111827?style=for-the-badge&logo=json&logoColor=00BD7D)
 
-**Tooling**
+**Tools & Deployment**
 
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=DC2626)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![Netlify](https://img.shields.io/badge/Netlify-111827?style=for-the-badge&logo=netlify&logoColor=00BD7D)
+![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=D97706)
 ![VS Code](https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=00BD7D)
 ![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=D97706)
 
