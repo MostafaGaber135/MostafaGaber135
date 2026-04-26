@@ -126,16 +126,6 @@ A full e-commerce platform featuring electronics, fashion, and home essentials.
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=MostafaGaber135&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/MostafaGaber135)
-
-</div>
-
----
-
 ## Currently Exploring
 
 | Topic | Status |
