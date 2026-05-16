@@ -63,7 +63,7 @@ I'm a **Frontend Developer** based in 🇪🇬 **Egypt**, currently building pro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MostafaGaber135&show_icons=true&theme=transparent&hide_border=true&title_color=00BD7D&icon_color=00BD7D&text_color=FFFFFF&bg_color=00000000&rank_icon=github&include_all_commits=true" height="165"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaGaber135&theme=transparent&hide_border=true&stroke=00BD7D&ring=00BD7D&fire=D97706&currStreakLabel=2D3748&sideLabels=2D3748&dates=6B7280" height="165"/>
 
 </div>
